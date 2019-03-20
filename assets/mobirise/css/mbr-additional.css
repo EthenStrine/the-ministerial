@@ -1819,6 +1819,31 @@ body {
     width: 100% !important;
   }
 }
+.cid-rlhIYk8aio {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #cb6ce6;
+}
+.cid-rlhIYk8aio h3 {
+  text-align: center;
+}
+.cid-rlhIYk8aio .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rlhIYk8aio .mbr-content-text {
+  color: #767676;
+}
+.cid-rlhIYk8aio .panel-item {
+  background: #55b4d4;
+}
+.cid-rlhIYk8aio .card {
+  word-wrap: break-word;
+}
+.cid-rlhIYk8aio .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
+}
 .cid-rlgpzgaKr1 {
   background-color: #cb6ce6;
 }
@@ -2315,6 +2340,65 @@ body {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #149dcc !important;
+}
+.cid-rlhLpRllJ1 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #cb6ce6;
+}
+.cid-rlhLpRllJ1 .mbr-section-text {
+  color: #767676;
+}
+.cid-rlhLpRllJ1 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rlhLpRllJ1 .tabcont {
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rlhLpRllJ1 .mbr-iconfont {
+  font-size: 48px;
+}
+.cid-rlhLpRllJ1 .card-img {
+  margin-bottom: 1.5rem;
+}
+.cid-rlhLpRllJ1 .tab-content-row {
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rlhLpRllJ1 .tab-content {
+  margin-top: 3rem;
+  width: 100%;
+}
+.cid-rlhLpRllJ1 .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.cid-rlhLpRllJ1 .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #073b4c;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 3px;
+  padding: 1rem 3rem;
+  margin: 0.4rem .8rem !important;
+  transition: color .3s;
+  border: 2px solid #073b4c;
+}
+.cid-rlhLpRllJ1 .nav-tabs .nav-link:hover {
+  background: #149dcc;
+}
+.cid-rlhLpRllJ1 .nav-tabs .nav-link.active {
+  color: #ffffff;
+  font-style: normal;
+  border: 2px solid #149dcc;
+  background: #149dcc;
+}
+.cid-rlhLpRllJ1 .nav-tabs .nav-link.active:hover {
+  border: 2px solid #149dcc;
 }
 .cid-rlgNDzAqW9 {
   padding-top: 45px;
