@@ -39,10 +39,11 @@
     "favicon": "",
     "noImageResize": "",
     "screenshot": "screenshot.png",
-    "siteUrl": "",
+    "siteUrl": "https://theministerial.com",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
-    "robotsSwitcher": "on"
+    "robotsSwitcher": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
