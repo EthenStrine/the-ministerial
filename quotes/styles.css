@@ -1,0 +1,27 @@
+DIV.quoteDisplay {
+margin: auto;
+width: 50%;
+position: relative;
+align-content: center
+}
+
+DIV.addQuote {
+position:fixed;
+bottom:10px;
+right:0px;
+height:20px;
+width:250px;
+}
+
+body {
+background-color:#cb6ce6;
+margin-top: 15%;
+scroll-margin-bottom: 19%;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0ch;
+    text-align: center;
+    padding: 10px;
+  }
