@@ -41,7 +41,11 @@ var quotes = [
     'It\'s funny how cucumber water can taste so much better than pickle juice, even though they come from the same source.',
     '<b>Bottle up orgasms and sell them as a food additive</b',
     'Don\'t bruise the Foo!',
-    'You are who you are, when <b><i>NO ONE is LOOKING</b></i>'
+    'You are who you are, when <b><i>NO ONE is LOOKING</b></i>',
+    'It\'s just.... </br> you know',
+    'Thomas was sick of being accused of knowing things.',
+    'Butt holes are like a one-way street; they were made the way they were for a reason.',
+    'Pedophiles are fucking immature assholes.',
 ];
 
 function newQuote() {
