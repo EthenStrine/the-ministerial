@@ -31,6 +31,17 @@ var quotes = [
     'It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.',
     'There\'s something finite about the thought of death, you know that while you may get there in the end. <center><i>You definitely aren\'t there now.</i></center>',
     'Hold fast to dreams, </br> For if dreams die </br> Life is a broken-winged bird, </br> That cannot fly',
+    'Insane means fewer cameras!',
+    'I\'m about as intimidating as a butterfly.',
+    'Never ask an elf for help; they might decide your better off dead, eh?',
+    'Act first, explain later.',
+    'Where\'s the goddamn ice I ordered?',
+    'I love jell-o. I love the way it comes in rainbow colours, wiggles and jiggles and looks like brains.',
+    'Who the hell speaks Swedish?',
+    'It\'s funny how cucumber water can taste so much better than pickle juice, even though they come from the same source.',
+    '<b>Bottle up orgasms and sell them as a food additive</b',
+    'Don\'t bruise the Foo!',
+    'You are who you are, when <b><i>NO ONE is LOOKING</b></i>'
 ];
 
 function newQuote() {
